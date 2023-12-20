@@ -1,9 +1,8 @@
-
 ## Projeto de microserviços para um sistema de cadastro de clientes, produtos e vendas. 
 
-# ⏱️ Em desenvolvimento.
+## ⏱️ Em desenvolvimento.
 
-# 💻 Tecnologias utilizadas:
+## 💻 Tecnologias utilizadas:
 - TypeScript
 - Express
 - Prisma
